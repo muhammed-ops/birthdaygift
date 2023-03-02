@@ -1,0 +1,157 @@
+html {
+    
+    background: linear-gradient(lightskyblue, pink);
+}
+
+.today {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+.image1 {
+    width: 15%;
+    height: 150px;
+    border: 5px solid pink;
+    border-radius: 50%;
+    margin-left: 535px;
+    margin-top: -50px;
+}
+.details {
+    border: 2px solid pink;
+    width: 80px;
+    font-size: 30px;
+    display: inline;
+    background-color: pink;
+    margin-left: 44%;
+
+}
+.date {
+    border: 2px solid pink;
+    width: 80px;
+    font-size: 20px;
+    display: inline;
+    background-color: pink;
+    margin-left: 44%;
+    position: relative;
+    top: 20px;
+    left: 25px;
+
+}
+.first {
+    width: 30%;
+    margin-left: 430px;
+    margin-top: 40px;
+}
+.bg {
+    background-image: url('first');
+    background-size: cover;
+    height: 40%;
+    width: 40%;
+    background-position: center;
+    position: relative;
+    left: 30%;
+    top: 40px;
+
+}
+body, html {
+    height: 100%;
+    margin: 0px;
+}
+
+.bg:hover {
+    background-image: url('second.gif');
+
+}
+.here {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    position: relative;
+    top: 40px;
+    line-height: 1.4px;
+    font-weight: bold;
+}
+
+.bg2 {
+    background-image: url('first');
+    background-size: cover;
+    height: 40%;
+    width: 40%;
+    background-position: center;
+    position: relative;
+    left: 30%;
+    top: 40px;
+
+}
+
+.bg2:hover {
+    background-image: url('grandma.gif');
+}
+
+.bg3 {
+    background-image: url('first');
+    background-size: cover;
+    height: 40%;
+    width: 40%;
+    background-position: center;
+    position: relative;
+    left: 30%;
+    top: 40px;
+
+}
+.bg3:hover {
+    background-image: url('grandma.gif');
+}
+
+.bg4 {
+    background-image: url('first');
+    background-size: cover;
+    height: 40%;
+    width: 40%;
+    background-position: center;
+    position: relative;
+    left: 30%;
+    top: 40px;
+
+}
+.bg4:hover {
+    background-image: url('genius.gif');
+}
+
+.bg5 {
+    background-image: url('first');
+    background-size: cover;
+    height: 30%;
+    width: 40%;
+    background-position: center;
+    position: relative;
+    left: 30%;
+    top: 40px;
+
+}
+.bg5:hover:hover {
+    background-image: url('len.gif');
+}
+
+.last {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: 40px;
+    line-height: 1.4px;
+    font-weight: bold;
+}
+.linka {
+    position: relative;
+    top: 25px;
+    color: white;
+}
+.linka:hover{
+    color: blue;
+}
+
+
+
+  
